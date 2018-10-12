@@ -4,8 +4,3 @@
 
 
 const lowerCaseDrivers = drivers.map(d => d.toLowerCase())
-
-
-// function lowerCaseDrivers() {
-  
-// }
